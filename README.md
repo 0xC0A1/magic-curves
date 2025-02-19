@@ -43,7 +43,3 @@ We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
 
 If you find Magic Curves useful, please consider giving us a star on GitHub. It helps us know that you appreciate our work and encourages further development!
-
----
-
-Built with ❤️ by Kevin Rodríguez.
